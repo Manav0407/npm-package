@@ -67,8 +67,6 @@ const value = await getCache('key');
 await deleteCache('key');
 
 
-### Options:
-
 
 
 
